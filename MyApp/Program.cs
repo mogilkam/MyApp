@@ -1,4 +1,5 @@
-﻿using System;
+//User greeting
+using System;
 
 class Program
 {
